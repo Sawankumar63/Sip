@@ -10,7 +10,22 @@ let username
 console.log(typeof(username))
 
 let user =null
+console.log(user)
 console.log(typeof(user))
+
+
+let c="7"
+console.log(typeof(c))
+
+let f="pavan154"
+console.log(typeof f)
+
+let g =Number(f);
+console.log(g)
+console.log(typeof(g))
+
+
+
 
 
 
